@@ -1,3 +1,6 @@
+# Originates from https://github.com/Spijkervet/eurovision-dataset
+# Modified to use yt_dlp
+
 import os
 import subprocess
 import pandas as pd

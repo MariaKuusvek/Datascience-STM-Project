@@ -1,3 +1,5 @@
+# Originates from https://github.com/Spijkervet/eurovision-dataset
+
 import os
 from shutil import which
 from glob import glob
